@@ -1,0 +1,264 @@
+home_team,away_team,weather,neutral_ground,result
+Арсенал,ПСЖ,clear,0,away_team
+Спартак,Динамо,clear,0,home_team
+Штурм Грац ll,Ферст Вена,cloudy,0,home_team
+Барселона,Интер,clear,0,draw
+Локомотив,Ростов,windy,0,away_team
+Акрон,Ахмат,cloudy,0,home_team
+Зенит,ЦСКА,cloudy,0,home_team
+Факел,Локомотив,cloudy,0,away_team
+Тоттенхэм,Буде-Глимт,clear,0,home_team
+Динамо,Спартак,cloudy,0,home_team
+Рубин,Ростов,cloudy,0,home_team
+Манчестер Юнайтед,Атлетик,clear,0,home_team
+Пари НН,Крылья Советов,cloudy,0,home_team
+Акрон,Динамо Махачкала,clear,0,home_team
+ЦСКА,Зенит,cloudy,0,home_team
+Локомотив,Оренбург,clear,0,draw
+Краснодар,Рубин,cloudy,0,home_team
+Спартак,Ростов,cloudy,0,away_team
+Факел,Спартак,clear,0,draw
+Оренбург,Краснодар,cloudy,0,away_team
+Ахмат,ЦСКА,cloudy,0,draw
+Химки,Рубин,cloudy,0,home_team
+Зенит,Пари НН,clear,0,home_team
+Пари НН,Факел,cloudy,0,draw
+Химки,Ростов,cloudy,0,draw
+Крылья Советов,Спартак,clear,0,away_team
+Крылья Советов,Динамо,clear,0,away_team
+Интер,Барселона,clear,0,home_team
+Ахмат,Динамо,rain,0,draw
+ПСЖ,Арсенал,clear,0,home_team
+Динамо,Акрон,rain,0,home_team
+Буде-Глимт,Тоттенхэм,rain,0,away_team
+Ростов,Зенит,clear,0,away_team
+Манчестер Юнайтед,Атлетик,clear,0,home_team
+Оренбург,Химки,cloudy,0,draw
+Локомотив,ЦСКА,rain,0,draw
+Тоттенхем,Манчестер Юнайтед,clear,0,home_team
+Динамо Махачкала,Зенит,cloudy,0,away_team
+ЦСКА,Краснодар,clear,0,home_team
+Зенит,Ахмат,cloudy,0,home_team
+Бетис,Челси,clear,0,away_team
+Спартак,Химки,cloudy,0,home_team
+Урал,Ахмат,clear,0,home_team
+Краснодар,Динамо,hot,0,home_team
+Сочи,Пари НН,clear,0,away_team
+ЦСКА,Пари НН,hot,0,home_team
+Факел,Крылья Советов,clear,0,draw
+Рубин,Оренбург,cloudy,0,home_team
+Динамо Махачкала,Ростов,clear,0,draw
+Акрон,Локомотив,clear,0,away_team
+Пари НН,Оренбург,clear,0,away_team
+Крылья Советов,Рубин,cloudy,0,draw
+Факел,Ахмат,clear,0,draw
+Боруссия Д,Барселона,clear,0,home_team
+Локомотив,Зенит,clear,0,draw
+Астон Вилла,ПСЖ,rain,0,home_team
+Краснодар,Акрон,clear,0,home_team
+Локомотив,Ахмат,clear,0,home_team
+Динамо Махачкала,Химки,clear,0,home_team
+Спартак,Урал,clear,0,home_team
+Интер,Бавария,clear,0,draw
+Ростов,Спартак,rain,0,away_team
+Реал Мадрид,Арсенал,rain,0,away_team
+ЦСКА,Динамо,snow,0,home_team
+Бавария,Интер,cloudy,0,away_team
+Зенит,Ростов,clear,0,home_team
+Арсенал,Реал Мадрид,cloudy,0,home_team
+Барселона,Боруссия Д,clear,0,home_team
+Динамо,ЦСКА,clear,0,draw
+ПСЖ,Астон Вилла,clear,0,home_team
+Лацио,Буде-Глимт,cloudy,0,away_team
+Буде-Глимт,Лацио,clear,0,home_team
+Айнтрахт Ф,Тоттенхэм,rain,0,away_team
+Атлетик,Рейнджерс,cloudy,0,home_team
+Тоттенхэм,Айнтрахт Ф,clear,0,draw
+Манчестер Юнайтед,Лион,clear,0,home_team
+Рейнджерс,Атлетик,clear,0,draw
+Оренбург,Динамо Махачкала,cloudy,0,home_team
+Акрон,Спартак,cloudy,0,away_team
+Локомотив,Пари НН,hot,0,home_team
+Краснодар,Ахмат,clear,0,home_team
+Лион,Манчестер Юнайтед,clear,0,draw
+Динамо,Рубин,clear,0,home_team
+Спартак,Динамо Махачкала,clear,0,away_team
+Факел,Ростов,hot,0,away_team
+Зенит,Химки,clear,0,home_team
+Оренбург,ЦСКА,clear,0,away_team
+ЦСКА,Крылья Советов,clear,0,draw
+Пари НН,Динамо,clear,0,draw
+Рубин,Локомотив,clear,0,home_team
+Торпедо,Урал,cloudy,0,draw
+Динамо Махачкала,Краснодар,clear,0,away_team
+Ахмат,Ростов,cloudy,0,home_team
+Акрон,Факел,cloudy,0,home_team
+Динамо,Зенит,clear,0,draw
+Пари НН,Ахмат,clear,0,home_team
+Зенит,Краснодар,clear,0,home_team
+Ростов,Локомотив,cloudy,0,draw
+Химки,Крылья Советов,rain,0,away_team
+Спартак,ЦСКА,rain,0,away_team
+Крылья Советов,Оренбург,cloudy,0,home_team
+Химки,Акрон,clear,0,draw
+Рубин,Факел,clear,0,home_team
+Акрон,ЦСКА,clear,0,away_team
+Пари НН,Акрон,cloudy,0,home_team
+Рубин,Пари НН,cloudy,0,home_team
+Зенит,ЦСКА,clear,0,draw
+Ростов,Краснодар,clear,0,away_team
+Ахмат,Рубин,cloudy,0,home_team
+Спартак,Зенит,cloudy,0,home_team
+Краснодар,Крылья Советов,cloudy,0,draw
+Арсенал Тула,Чайка,snow,0,draw
+Енисей,Нефтехимки,cloudy,0,home_team
+Енисей,Алания,cloudy,0,home_team
+Алания,Сокол,rain,0,home_team
+Торпедо,Родина,clear,0,draw
+Черноморец,Торпедо,clear,0,home_team
+КАМАЗ,Арсенал Тула,cloudy,0,home_team
+КАМАЗ,Тюмень,rain,0,away_team
+Химки,Факел,cloudy,0,home_team
+СКА Хабаровск,Ротор,clear,0,home_team
+Уфа,Балтика,clear,0,away_team
+Сочи,Шинник,rain,0,away_team
+Спартак,Оренбург,cloudy,0,home_team
+Чайка,Черноморец,cloudy,0,away_team
+Ростов,Динамо,cloudy,0,draw
+Урал,Арсенал Тула,clear,0,draw
+Сочи,Сокол,clear,0,draw
+Крылья Советов,Локомотив,clear,0,home_team
+Ротор,Урал,clear,0,draw
+Динамо,Оренбург,cloudy,0,home_team
+Химки,Пари НН,clear,0,home_team
+Брюгге,Астон Вилла,clear,0,away_team
+ЦСКА,Динамо Махачкала,cloudy,0,home_team
+Реал Мадрид,Атлетико,cloudy,0,home_team
+Краснодар,Факел,clear,0,home_team
+Ахмат,Спартак,clear,0,draw
+Зенит,Рубин,rain,0,home_team
+ПСВ,Арсенал,clear,0,away_team
+Акрон,Ростов,cloudy,0,away_team
+Боруссия Д,Лилль,clear,0,draw
+Фейеноорд,Интер,cloudy,0,away_team
+Сочи,Енисей,cloudy,0,home_team
+ПСЖ,Ливерпуль,cloudy,0,away_team
+Бавария,Байер,clear,0,home_team
+Бенфика,Барселона,clear,0,away_team
+АЗ Алкмар,Тоттенхэм,clear,0,home_team
+Оренбург,Факел,cloudy,0,home_team
+Химки,Ахмат,clear,0,draw
+Фенербахче,Рейнджерс,clear,0,away_team
+Динамо Махачкала,Крылья Советов,cloudy,0,home_team
+ФКСБ,Лион,clear,0,away_team
+Реал Сосьедад,Манчестер Юнайтед,rain,0,draw
+Локомотив,Динамо,clear,0,home_team
+Лацио,Виктория Пльзень,clear,0,draw
+Виктория Пльзень,Лацио,clear,0,away_team
+Олимпиакос,Буде-Глимт,clear,0,home_team
+Буде-Глимт,Олимпиакос,cloudy,0,home_team
+Айнтрахт Ф,Аякс,rain,0,home_team
+Аякс,Айнтрахт Ф,clear,0,away_team
+Атлетик,Рома,cloudy,0,home_team
+Рома,Атлетик,clear,0,home_team
+Тоттенхэм,АЗ Алкмар,clear,0,home_team
+Пари НН,Краснодар,clear,0,away_team
+Райнджерс,Фенербахче,cloudy,0,away_team
+Лион,ФКСБ,clear,0,home_team
+Локомотив,Ахмат,clear,0,draw
+Манчестер Юнайтед,Реал Сосьедад,clear,0,home_team
+Черноморец,Арсенал Тула,clear,0,draw
+Оренбург,Ростов,clear,0,away_team
+Лилль,Боруссия Д,clear,0,away_team
+Астон Вилла,Брюгге,cloudy,0,home_team
+Факел,Зенит,clear,0,away_team
+ЦСКА,Химки,clear,0,home_team
+Атлетико,Реал Мадрид,clear,0,away_team
+Арсенал,ПСВ,clear,0,draw
+Енисей,Родина,clear,0,draw
+Алания,Тюмень,clear,0,draw
+Урал,Рубин,clear,0,home_team
+КАМАЗ,Чайка,clear,0,home_team
+Крылья Советов,Акрон,clear,0,away_team
+Акрон,Спартак,cloudy,0,away_team
+Ростов,Зенит,clear,0,away_team
+Рубин,Спартак,clear,0,home_team
+ЦСКА,Динамо,rain,0,home_team
+Сокол,Нефтехимик,snow,0,away_team
+Барселона,Бенфика,cloudy,0,home_team
+Ливерпуль,ПСЖ,cloudy,0,away_team
+Шинник,СКА Хабаровск,clear,0,away_team
+Сочи,Урал,clear,0,home_team
+Байер,Бавария,clear,0,away_team
+Торпедо,Уфа,snow,0,draw
+Балтика,Ротор,cloudy,0,draw
+Интер,Фейеноорд,clear,0,home_team
+Краснодар,Ахмат,clear,0,away_team
+Динамо Махачкала,Локомотив,cloudy,0,away_team
+Динамо Махачкала,Локомотив,cloudy,0,draw
+Оренбург,Динамо,clear,0,draw
+Крылья Советов,Динамо Махачкала,0,away_team
+Локомотив,Краснодар,clear,0,away_team
+Ростов,Факел,clear,0,home_team
+Акмар,Торпедо Миасс,clear,0,home_team
+Форте,Кубань Холдинг,clear,0,away_team
+Текстильщик,Спартак Кострома,clear,0,away_team
+Динамо Владивосток,Сибирь,clear,0,home_team
+Космос,Амкал,clear,0,away_team
+Волга Ульяновск,Динамо Киров,cloudy,0,home_team
+Челябинск,Чертаново,rain,0,home_team
+Муром,Химик,clear,0,away_team
+Знамя Труда,Ленинградец,clear,0,home_team
+Астрахань,Волгарь,hot,0,away_team
+Машук-КМВ,Динамо Ставрополь,rain,0,home_team
+Орел,Салют,cloudy,0,home_team
+Композит,Зенит Пенза,clear,0,home_team
+Луки-Энергия,Рязань,cloudy,0,home_team
+Урал,Ротор,clear,0,draw
+Шинник,Уфа,clear,0,home_team
+Алания,Сочи,hot,0,draw
+КАМАЗ,Черноморец,clear,0,away_team
+Нефтехимик,Енисей,cloudy,0,away_team
+Торпедо,Арсенал Тула,cloudy,0,draw
+Родина,Сокол,cloudy,0,home_team
+Балтика,Тюмень,cloudy,0,home_team
+СКА Хабаровск,Чайка,clear,0,home_team
+Рубин,Крылья Советов,clear,0,away_team
+Оренбург,Локомотив,clear,0,away_team
+Факел,Пари НН,hot,0,draw
+ЦСКА,Зенит,clear,0,away_team
+Краснодар,Ростов,cloudy,0,home_team
+Динамо,Ахмат,clear,0,home_team
+Акрон,Химки,clear,0,home_team
+Динамо Махачкала,Спартак,clear,0,draw
+Арсенал Тула,Урал,clear,0,home_team
+Торпедо,Балтика,clear,0,home_team
+Ювентус,ПСВ,clear,0,home_team
+Янг Бойз,Астон Вилла,clear,0,away_team
+Бавария,Динамо Загреб,cloudy,0,home_team
+Милан,Ливерпуль,cloudy,0,away_team
+Спортинг,Лилль,clear,0,home_team
+Реал Мадрид,Штутгарт,0,home_team
+Зенит,Рубин,cloudy,0,home_team
+Акрон,Факел,cloudy,0,home_team
+Ростов,Оренбург,cloudy,0,home_team
+ЦСКА,Краснодар,clear,0,home_team
+Динамо Махачкала,Динамо,clear,0,away_team
+Спарта Прага,Ред Булл,clear,0,home_team
+Селтик,Слован Б,cloudy,0,home_team
+Брюгге,Боруссия Д,clear,0,away_team
+Манчестер Сити,Интер,clear,0,draw
+ПСЖ,Жирона,cloudy,0,home_team
+Химки,Локомотив,clear,0,away_team
+Пари НН,Ахмат,clear,0,away_team
+Спартак,Крылья Советов,clear,0,home_team
+Црвена Звезда,Бенфика,clear,0,away_team
+Фейеноорд,Байер,clear,0,away_team
+Аталанта,Арсенал,cloudy,0,draw
+Брест,Штурм,clear,0,home_team
+Монако,Барселона,clear,0,home_team
+Уфа,Чайка,cloudy,0,away_team
+Ротор,Черноморец,clear,0,away_team
+Акрон,Краснодар,cloudy,0,away_team
+Зенит,Факел,cloudy,0,home_team
+Рубин,ЦСКА,clear,0,draw
